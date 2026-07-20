@@ -39,10 +39,13 @@ Compass was built from the other direction: sats first, fiat as the secondary un
 - **Cross-platform** — desktop (Mac, Windows, Linux) and iOS, with optional encrypted sync between them.
 - **Pay in Bitcoin** — lifetime license, purchasable in sats or USD. No recurring charge, ever.
 
-## Screenshot
+## Screenshots
 
 <div align="center">
-  <img src="assets/screenshot-home.png" alt="Compass home screen showing net worth in BTC and USD, monthly spending breakdown, and recent activity" width="320">
+  <img src="assets/screenshot-dashboard.png" alt="Compass dashboard showing net worth in BTC, live Bitcoin price, monthly spending, accumulation, and goal progress" width="100%">
+  <br><br>
+  <img src="assets/screenshot-spending.png" alt="Compass spending view with every transaction priced in sats and categorized as necessary, discretionary, wasteful, or Bitcoin" width="49%">
+  <img src="assets/screenshot-reflect.png" alt="Compass monthly reflection card showing sats spent and stacked, shareable as an image" width="49%">
 </div>
 
 ## Compass cannot read your data
